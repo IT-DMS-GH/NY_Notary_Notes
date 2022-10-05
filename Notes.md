@@ -35,6 +35,7 @@
         - [§303. Requisites of acknowledgments.](#303-requisites-of-acknowledgments)
         - [§304. Proof by subscribing witness.](#304-proof-by-subscribing-witness)
         - [§306. Certificate of acknowledgment or proof.](#306-certificate-of-acknowledgment-or-proof)
+        - [§309-a. Uniform forms of certificates of acknowledgment or proof within this state.](#309-a-uniform-forms-of-certificates-of-acknowledgment-or-proof-within-this-state)
 
 
 ## **Resources**
@@ -386,3 +387,14 @@
     - The procedure for "**Taking A Proof**" involves a subscribing witness.
 
 
+### §309-a. Uniform forms of certificates of acknowledgment or proof within this state.
+
+**<p align="center">▼ Certificate of an Acknowledgement (In NY State) ▼</p>**
+
+<p align="center"><img src="Screenshots/Taking_Acknowledgement.png"></p>
+
+<br>
+
+**<p align="center">▼ Certificate of a Proof (In NY State) ▼</p>**
+
+<p align="center"><img src="Screenshots/Taking_Proof.png"></p>
