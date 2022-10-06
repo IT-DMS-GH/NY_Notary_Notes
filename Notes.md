@@ -397,4 +397,4 @@
 
 **<p align="center">▼ Certificate of a Proof (In NY State) ▼</p>**
 
-<p align="center"><img src="Screenshots/Taking_Proof.png"></p>
+<p align="center"><img src="./Screenshots/Taking_Proof.png"></p>
