@@ -36,16 +36,29 @@
         - [§304. Proof by subscribing witness.](#304-proof-by-subscribing-witness)
         - [§306. Certificate of acknowledgment or proof.](#306-certificate-of-acknowledgment-or-proof)
         - [§309-a. Uniform forms of certificates of acknowledgment or proof within this state.](#309-a-uniform-forms-of-certificates-of-acknowledgment-or-proof-within-this-state)
+        - [§ 309-b. Uniform forms of certificates of acknowledgment or proof without this state.](#-309-b-uniform-forms-of-certificates-of-acknowledgment-or-proof-without-this-state)
+        - [§330. Officers guilty of malfeasance liable for damages.](#330-officers-guilty-of-malfeasance-liable-for-damages)
+        - [§333. When conveyances of real property not to be recorded.](#333-when-conveyances-of-real-property-not-to-be-recorded)
+        - [Special Note](#special-note)
+        - [§335. Banking Law](#335-banking-law)
+        - [Rule 3113. Civil Practice Law and Rules](#rule-3113-civil-practice-law-and-rules)
+        - [§11. Domestic Relations Law](#11-domestic-relations-law)
+        - [§10. Public Officers Law](#10-public-officers-law)
+    - [**Restrictions and Violations**](#restrictions-and-violations)
+        - [§484. None but attorneys to practice in the state.](#484-none-but-attorneys-to-practice-in-the-state)
 
 
 ## **Resources**
 
-- [NY Notary Public site](https://dos.ny.gov/notary-public)
-- [NY Notary Law - 2020 (PDF)](https://dos.ny.gov/system/files/documents/2022/04/notary.pdf)
-- [NY Notary Law - Unofficial 2022 Revised (PDF)](https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/new_york.pdf)
-- Article 6 - DEPARTMENT OF STATE LAW 
-    - [[Link 1](https://www.nysenate.gov/legislation/laws/EXC/A6) | [Link 2](https://casetext.com/statute/consolidated-laws-of-new-york/chapter-executive/article-6-department-of-state)]
-- [National Notary (Notary Law Database)](https://www.nationalnotary.org/knowledge-center/news/law-updates)
+**Hold `CTRL` then `Left Click` the links to open in a New Tab, or hover over the link and push down the `Scroll Wheel`.**
+
+- [NY Notary Public Official Website](https://dos.ny.gov/notary-public)
+- Notary Law
+    - [NY Notary Law - 2020 (PDF)](https://dos.ny.gov/system/files/documents/2022/04/notary.pdf)
+    - [NY Notary Law - Unofficial 2022 Revised (PDF)](https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/new_york.pdf)
+    - [National Notary (Notary Law Database)](https://www.nationalnotary.org/knowledge-center/news/law-updates)
+    - Article 6 - DEPARTMENT OF STATE LAW 
+        - [[Link 1](https://www.nysenate.gov/legislation/laws/EXC/A6) | [Link 2](https://casetext.com/statute/consolidated-laws-of-new-york/chapter-executive/article-6-department-of-state)]
 - Flash Cards
     - [[Link 1](https://quizlet.com/56144981/new-york-state-notary-public-license-exam-flash-cards/) | [Link 2](https://quizlet.com/593263503/new-york-notary-exam-practice-test-flash-cards/)]
 - Practice Exams 
@@ -58,6 +71,8 @@
     - Jurat
         - [Jurat Sample (JPG)](https://www.nationalnotary.org/image%20library/nna/bulletin/bulletin-jurat-large.jpg)
 - [Stamp Purchase](https://www.allstatenotarysupplies.com/ny-notary-round-exp-stamp)
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ## **Intro**
@@ -88,6 +103,8 @@
     - Oath of office and signature of the notary must be filed.
 
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 ## **Professional Conduct**
 
 - Taking acknowledgements or affidavits without the personal appearance of the individual making them is illegal.
@@ -106,6 +123,8 @@
 4. **May not advertise in any paper or advertisement, any powers or rights they are not given as a notary.**
 	- Also may not execute an acknowledgement of a will and cannot be deemed an attestation.
 
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 ## **APPOINTMENT AND QUALIFICATIONS EXECUTIVE LAW**
 
@@ -129,6 +148,8 @@
 - An attorney and councilor in the courts with an office of practice residing in NY state may be appointed notary and deemed resident of the county.
 
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 ### §131. Procedure of appointment; fees and commissions.
 
 1. Applicants shall submit their application and oath of office with their signature.
@@ -146,11 +167,15 @@
 13. A duplicate ID may be issued if lost/destroyed/damaged; ID will have "Duplicate" stamped on it.
 
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 ### §132. Certificates of official character of notaries public.
 
 - The SoS or count clerk of the county may certify a CoOC (Certificate of Official Character) of a notary in any county in the state.
 - SoS gets $1 for each CoOC issued by them.
 - County clerk get $1 for each CoOC filed by them.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §133. Certification of notarial signatures.
@@ -159,27 +184,37 @@
 - County clerk confirms the commission (the notary is an actual appointed notary) and the official signature of character (the notary's signature).
 - After the signature of a notary is authenticated, a certificate of authentication is issued by the county clerk and the document signed by the notary can be read into evidence.
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### §140. Executive Law.
 
 - If a commissioner of deeds is **removed** from office, they cannot be reappointed as a commissioner of deeds or become a notary public.
 - If removed from office, signing documents as a commissioner of deeds or notary public will result in a misdemeanor.
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### §3-200 and 3-400. Election Law.
 
 - A commissioner of elections or inspector of elections is eligible for the office of notary public.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §3. Public Officer Law.
 
 - You cannot become a notary public if you violated the [Selective Service Act of 1917](https://en.wikipedia.org/wiki/Selective_Service_Act_of_1917) or the [Selective Training and Service Act of 1940](https://en.wikipedia.org/wiki/Selective_Training_and_Service_Act_of_1940)
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### §534. County Law.
 
 - The county clerk designates a single member of their staff to notarize documents for the public, free of charge, during normal business hours.
 - Any staff of the county clerk can be appointed as a notary public without examination or application fee.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ## **Miscellaneous**
@@ -188,10 +223,14 @@
 
 - A member of legislature can be appointed notary public, but must vacate their seat as legislature.
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### Sheriffs.
 
 - Sheriffs cannot hold any other office.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### Notary public—disqualifications.
@@ -199,12 +238,16 @@
 - A notary public is disqualified from signing a document if they have an expressed interest or benefit in the case.
     - *e.g. A notary who is a grantee or mortgagee in a conveyance or mortgage is disqualified to take the acknowledgment of the grantor or mortgagor.*
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ## **Powers and Duties**
 
 ### §134. Signature and seal of county clerk.
 
 - The signature and seal of a county clerk can be a copy of the official signature, printed, stamped, photographed, or engraved onto a document.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §135. Powers and duties; in general; of notaries public who are attorneys at law.
@@ -238,10 +281,14 @@
     - [Example Situation](https://www.investopedia.com/terms/n/notice-of-dishonor.asp#:~:text=For%20example%2C%20suppose,person%20X%E2%80%99s%20bank.)
     - [Protest steps](https://www.upcounsel.com/legal-def-protest#as-a-notarial-act:~:text=In%20making%20the,matter%20of%20form.)
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### §135-a. Notary Public or commissioner of deeds; acting without appointment; fraud in office.
 
 - Advertising or performing the duties of a notary public or commissioner of deeds, without being appointed, is considered fraud and will be guilty of a misdemeanor.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §135-b. Advertising by notaries public.
@@ -261,12 +308,16 @@
         - **Notary must be served a copy of the charges against them and be given a chance to be heard.**
 6. SoS may carry out these rules.
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### §136. Notarial fees.
 
 1. Administering and certifying an **oath or affirmation** = **$2**
 2. Taking and certifying **acknowledgements, proof of execution, or swearing a witness** =  **$2**
     - **+$2** for each additional person
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §137. Statement as to authority of notaries public.
@@ -286,6 +337,8 @@
 - Willfully failing to comply with these rules may result in punishment.
 - This statement can be received in all NY courts as **"Presumptive Evidence"**.
     - Can be contradicted by other evidence.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §138. Powers of notaries public or other officers who are stockholders, directors, officers or employees of a corporation.
@@ -311,6 +364,8 @@
 - Cannot notarize if they directly/indirectly benefit financially.
 - Does not affect any previous pending/ongoing legal proceedings.
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### §142-a. Validity of acts of notaries public and commissioners of deeds notwithstanding certain defects.
 
@@ -327,6 +382,8 @@
 4. After 6 months from the date of the act, The signature can be deemed defective.
 5. Does not relieve notary from liability of damages or criminal charges.
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ## **Real Property Law**
 
@@ -341,6 +398,8 @@
     - Mortgage
     - Deed
     - Lien
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §298. Acknowledgments and proofs within the state.
@@ -362,21 +421,29 @@
     - Village police justice
     - Judge of any court of inferior local jurisdiction
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### §302. Acknowledgments and proofs by married women.
 
 - Married woman can take acknowledgements or proof of a conveyance.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §303. Requisites of acknowledgments.
 
 - The person requesting the acknowledgement must provide valid proof of ID.
 
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
 
 ### §304. Proof by subscribing witness.
 
 - "**Subscribing Witness**" of a proof must provide their address and valid proof of ID.
 - Must sign off that they knew the person described in/who executed the document, and they saw such person execute such document.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §306. Certificate of acknowledgment or proof.
@@ -385,6 +452,8 @@
     - "**Taking an Acknowledgment**" involves an understanding of the document and a commitment to fulfill the contents/agreements of the document.
 - [[Link]](https://notarypublicunderwriters.com/national-notary-blog/250-national-notary-law/920-the-difference-between-an-acknowledgment-and-a-proof#:~:text=The%20procedure%20for,the%20original%20signing.) A "**Proof**" is often just an affidavit in which a "**Subscribing Witness**" gives a sworn statement about the details of the original signing.
     - The procedure for "**Taking A Proof**" involves a subscribing witness.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
 
 
 ### §309-a. Uniform forms of certificates of acknowledgment or proof within this state.
@@ -398,3 +467,110 @@
 **<p align="center">▼ Certificate of a Proof (In NY State) ▼</p>**
 
 <p align="center"><img src="Screenshots/Taking_Proof.PNG"></p>
+
+4. The term "Person" means:
+    - Corporation
+    - Joint stock company
+    - Estate
+    - General Partnership
+    - Limited Liability Company (LLC)
+    - Foreign LLC
+    - Join Venture
+    - Limited Partnership
+    - Natural Person
+    - [Attorney-In-Fact](https://www.investopedia.com/terms/a/attorneyinfact.asp#:~:text=JULIUS%20MANSA-,What%20Is%20an%20Attorney%2Din%2DFact%3F,The%20rules%20regulating%20power%20of%20attorney%20vary%20from%20state%20to%20state.,-1)
+    - Real Estate Investment Trust
+    - Business Trust
+    - Custodian
+    - Nominee
+    - Any individual or entity
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+### § 309-b. Uniform forms of certificates of acknowledgment or proof without this state.
+
+    All writing for the acknowledgement and proof are the same, they just require different headings.
+
+**<p align="center">▼ Acknowledgement (Outside of NY State) ▼</p>**
+
+<p align="center"><img src="Screenshots/Out_of_state.PNG"></p>
+
+**<p align="center">▼ Acknowledgement (Outside of the US) ▼</p>**
+
+<p align="center"><img src="Screenshots/Out_of_country.PNG"></p>
+
+3. Required (all) sections cannot be modified within the acknowledgement or proof.
+6. Only the heading can be changed.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+
+### §330. Officers guilty of malfeasance liable for damages.
+
+- Anyone authorized to take/certify ackowledgements & proofs, who are guilty of malfeasance or fraud, are liable in damages to the person effected.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+
+### §333. When conveyances of real property not to be recorded.
+
+- A Recording officer cannot record or accept for record any conveyance this not in english.
+- If the conveyence is not in english, it must be translated by a certified translator.
+- The translator must attach a copy of their certification of translation.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+
+### Special Note
+
+- Limitations for notaries relating to Real Property law have been removed.
+- Notaries can now administer oaths, take affidavits/acknowledgements/proofs of conveyance anywhere within the state of NY.
+- As of September 23, 2012, Recording officers (County Clerks) are able to receive and record documents electronically. This includes:
+    - Deeds
+    - Mortgages
+    - Notes
+    - Other accompanying documents
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+
+### §335. Banking Law
+
+- If the fee for a safety deposit box isn't paid or the lease is terminated, **within 30 days notice, while a notary is present**, the bank (**Lessor**) can:
+    - Open the box
+    - Remove the contents
+    - Take inventory of the contents
+- The notary files a certificate with the bank that contains:
+    - The date of the opening
+    - The owner's (**Lessee**) name of the box
+    - The list of contents
+- Within **10 days** of the opening, a copy of the certificate must be mailed to the owner's previous address.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+
+### Rule 3113. Civil Practice Law and Rules
+
+- This rule authorizes a [deposition](https://www.law.cornell.edu/wex/deposition#:~:text=A%20deposition%C2%A0is%20a%20witness%27s%20sworn%20out%2Dof%2Dcourt%20testimony.%20It%20is%20used%20to%20gather%20information%20as%20part%20of%20the%C2%A0discovery%C2%A0process%20and%2C%20in%20limited%20circumstances%2C%20may%20be%20used%20at%20trial.%20The%20witness%20being%20deposed%20is%20called%20the%20%22deponent.%22) to be taken before a notary public in a civil proceeding
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+
+### §11. Domestic Relations Law
+
+- Notaries cannot solemnize marriages or take the acknowledgment of parties and witnesses to a written contract of marriage.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+
+### §10. Public Officers Law
+
+- Official oaths, permits the oath of a public officer to be administered by a notary public.
+
+<p align="right"><a href="#Contents">[Back to top]</a></p>
+
+
+## **Restrictions and Violations**
+
+### §484. None but attorneys to practice in the state.
+
