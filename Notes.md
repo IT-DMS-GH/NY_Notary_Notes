@@ -495,11 +495,11 @@
 
     All writing for the acknowledgement and proof are the same, they just require different headings.
 
-**<p align="center">▼ Acknowledgement (Outside of NY State) ▼</p>**
+**<p align="center">▼ Acknowledgement & Proof (Outside of NY State) ▼</p>**
 
 <p align="center"><img src="Screenshots/Out_of_state.PNG"></p>
 
-**<p align="center">▼ Acknowledgement (Outside of the US) ▼</p>**
+**<p align="center">▼ Acknowledgement & Proof (Outside of the US) ▼</p>**
 
 <p align="center"><img src="Screenshots/Out_of_country.PNG"></p>
 
