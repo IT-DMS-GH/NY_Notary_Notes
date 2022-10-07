@@ -508,7 +508,7 @@
 
 ### §330. Officers guilty of malfeasance liable for damages.
 
-- Anyone authorized to take/certify ackowledgements & proofs, who are guilty of malfeasance or fraud, are liable in damages to the person effected.
+- Anyone authorized to take/certify acknowledgements & proofs, who are guilty of malfeasance or fraud, are liable in damages to the person effected.
 
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
@@ -516,7 +516,7 @@
 ### §333. When conveyances of real property not to be recorded.
 
 - A Recording officer cannot record or accept for record any conveyance this not in english.
-- If the conveyence is not in english, it must be translated by a certified translator.
+- If the conveyance is not in english, it must be translated by a certified translator.
 - The translator must attach a copy of their certification of translation.
 
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
