@@ -499,8 +499,9 @@
 
 <p align="center"><img src="Screenshots/Out_of_country.PNG"></p>
 
-3. Required (all) sections cannot be modified within the acknowledgement or proof.
-6. Only the heading can be changed.
+- Required sections cannot be modified within the acknowledgement or proof.
+
+- Only the heading can be changed.
 
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
