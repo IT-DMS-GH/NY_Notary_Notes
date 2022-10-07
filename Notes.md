@@ -70,7 +70,11 @@
         - [Acknowledgement (PDF)](https://www.dec.ny.gov/docs/lands_forests_pdf/acknowledgment13.pdf)
     - Jurat
         - [Jurat Sample (JPG)](https://www.nationalnotary.org/image%20library/nna/bulletin/bulletin-jurat-large.jpg)
-- [Stamp Purchase](https://www.allstatenotarysupplies.com/ny-notary-round-exp-stamp)
+- Stamp Purchase
+    - [Round Stamp](https://www.allstatenotarysupplies.com/ny-notary-round-exp-stamp)
+    - [Round Stamp (Pink)](https://www.allstatenotarysupplies.com/new-york-notary-pink-with-county-and-expiration-round-stamp)
+    - [Rectangle](https://www.allstatenotarysupplies.com/ny-notary-rectangle)
+    - [Rectangle (Pink)](https://www.allstatenotarysupplies.com/new-york-notary-pink-stamp-rectangle)
 
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
