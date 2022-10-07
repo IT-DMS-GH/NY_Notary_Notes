@@ -36,7 +36,7 @@
         - [§304. Proof by subscribing witness.](#304-proof-by-subscribing-witness)
         - [§306. Certificate of acknowledgment or proof.](#306-certificate-of-acknowledgment-or-proof)
         - [§309-a. Uniform forms of certificates of acknowledgment or proof within this state.](#309-a-uniform-forms-of-certificates-of-acknowledgment-or-proof-within-this-state)
-        - [§ 309-b. Uniform forms of certificates of acknowledgment or proof without this state.](#-309-b-uniform-forms-of-certificates-of-acknowledgment-or-proof-without-this-state)
+        - [§309-b. Uniform forms of certificates of acknowledgment or proof without this state.](#309-b-uniform-forms-of-certificates-of-acknowledgment-or-proof-without-this-state)
         - [§330. Officers guilty of malfeasance liable for damages.](#330-officers-guilty-of-malfeasance-liable-for-damages)
         - [§333. When conveyances of real property not to be recorded.](#333-when-conveyances-of-real-property-not-to-be-recorded)
         - [Special Note](#special-note)
@@ -487,7 +487,7 @@
 
 <p align="right"><a href="#Contents">[Back to top]</a></p>
 
-### § 309-b. Uniform forms of certificates of acknowledgment or proof without this state.
+### §309-b. Uniform forms of certificates of acknowledgment or proof without this state.
 
     All writing for the acknowledgement and proof are the same, they just require different headings.
 
