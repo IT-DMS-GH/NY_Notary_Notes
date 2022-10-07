@@ -39,11 +39,11 @@
         - [§309-b. Uniform forms of certificates of acknowledgment or proof without this state.](#309-b-uniform-forms-of-certificates-of-acknowledgment-or-proof-without-this-state)
         - [§330. Officers guilty of malfeasance liable for damages.](#330-officers-guilty-of-malfeasance-liable-for-damages)
         - [§333. When conveyances of real property not to be recorded.](#333-when-conveyances-of-real-property-not-to-be-recorded)
-        - [Special Note](#special-note)
-        - [§335. Banking Law](#335-banking-law)
-        - [Rule 3113. Civil Practice Law and Rules](#rule-3113-civil-practice-law-and-rules)
-        - [§11. Domestic Relations Law](#11-domestic-relations-law)
-        - [§10. Public Officers Law](#10-public-officers-law)
+        - [Special Note.](#special-note)
+        - [§335. Banking Law.](#335-banking-law)
+        - [Rule 3113. Civil Practice Law and Rules.](#rule-3113-civil-practice-law-and-rules)
+        - [§11. Domestic Relations Law.](#11-domestic-relations-law)
+        - [§10. Public Officers Law.](#10-public-officers-law)
     - [**Restrictions and Violations**](#restrictions-and-violations)
         - [§484. None but attorneys to practice in the state.](#484-none-but-attorneys-to-practice-in-the-state)
 
@@ -522,7 +522,7 @@
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
 
-### Special Note
+### Special Note.
 
 - Limitations for notaries relating to Real Property law have been removed.
 - Notaries can now administer oaths, take affidavits/acknowledgements/proofs of conveyance anywhere within the state of NY.
@@ -535,7 +535,7 @@
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
 
-### §335. Banking Law
+### §335. Banking Law.
 
 - If the fee for a safety deposit box isn't paid or the lease is terminated, **within 30 days notice, while a notary is present**, the bank (**Lessor**) can:
     - Open the box
@@ -550,21 +550,21 @@
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
 
-### Rule 3113. Civil Practice Law and Rules
+### Rule 3113. Civil Practice Law and Rules.
 
 - This rule authorizes a [deposition](https://www.law.cornell.edu/wex/deposition#:~:text=A%20deposition%C2%A0is%20a%20witness%27s%20sworn%20out%2Dof%2Dcourt%20testimony.%20It%20is%20used%20to%20gather%20information%20as%20part%20of%20the%C2%A0discovery%C2%A0process%20and%2C%20in%20limited%20circumstances%2C%20may%20be%20used%20at%20trial.%20The%20witness%20being%20deposed%20is%20called%20the%20%22deponent.%22) to be taken before a notary public in a civil proceeding
 
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
 
-### §11. Domestic Relations Law
+### §11. Domestic Relations Law.
 
 - Notaries cannot solemnize marriages or take the acknowledgment of parties and witnesses to a written contract of marriage.
 
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
 
-### §10. Public Officers Law
+### §10. Public Officers Law.
 
 - Official oaths, permits the oath of a public officer to be administered by a notary public.
 
