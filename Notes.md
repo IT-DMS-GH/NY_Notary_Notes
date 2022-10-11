@@ -46,6 +46,25 @@
         - [§10. Public Officers Law.](#10-public-officers-law)
     - [**Restrictions and Violations**](#restrictions-and-violations)
         - [§484. None but attorneys to practice in the state.](#484-none-but-attorneys-to-practice-in-the-state)
+        - [§485. Violation of certain preceding sections a misdemeanor.](#485-violation-of-certain-preceding-sections-a-misdemeanor)
+        - [§750. Power of courts to punish for criminal contempts.](#750-power-of-courts-to-punish-for-criminal-contempts)
+        - [Illegal practice of law by notary public.](#illegal-practice-of-law-by-notary-public)
+        - [Wills.](#wills)
+        - [§15 Public Officers Law.](#15-public-officers-law)
+        - [§67. Fees of public officers.](#67-fees-of-public-officers)
+        - [§69. Fee for administering certain official oaths prohibited.](#69-fee-for-administering-certain-official-oaths-prohibited)
+        - [Misconduct by a notary and removal from office.](#misconduct-by-a-notary-and-removal-from-office)
+        - [§70.00 Sentence of imprisonment for felony.](#7000-sentence-of-imprisonment-for-felony)
+        - [§70.15 Sentences of imprisonment for misdemeanors and violation.](#7015-sentences-of-imprisonment-for-misdemeanors-and-violation)
+        - [§170.10 Forgery in the second degree.](#17010-forgery-in-the-second-degree)
+        - [§175.40 Issuing a false certificate.](#17540-issuing-a-false-certificate)
+        - [§195.00 Official misconduct.](#19500-official-misconduct)
+        - [Notary must officiate on request.](#notary-must-officiate-on-request)
+        - [Perjury.](#perjury)
+    - [TITLE 19 NYCRR CHAPTER V, SUBCHAPTER L | PART 182 NOTARIES PUBLIC](#title-19-nycrr-chapter-v-subchapter-l--part-182-notaries-public)
+        - [§182.1 Advertising](#1821-advertising)
+    - [Definitions and General Terms](#definitions-and-general-terms)
+        - [Acknowledgment](#acknowledgment)
 
 
 ## **Resources**
@@ -56,7 +75,7 @@
 - Notary Law
     - [NY Notary Law - 2020 (PDF)](https://dos.ny.gov/system/files/documents/2022/04/notary.pdf)
     - [NY Notary Law - Unofficial 2022 Revised (PDF)](https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/new_york.pdf)
-    - [National Notary (Notary Law Database)](https://www.nationalnotary.org/knowledge-center/news/law-updates)
+    - [National Notary (Notary Law Database & Updates)](https://www.nationalnotary.org/knowledge-center/news/law-updates)
     - Article 6 - DEPARTMENT OF STATE LAW 
         - [[Link 1](https://www.nysenate.gov/legislation/laws/EXC/A6) | [Link 2](https://casetext.com/statute/consolidated-laws-of-new-york/chapter-executive/article-6-department-of-state)]
 - Flash Cards
@@ -579,3 +598,182 @@
 
 ### §484. None but attorneys to practice in the state.
 
+- No attorney can ask anyone other than another practicing NY State attorney to substitute for them or receive compensation for preparing:
+    - Deeds
+    - Mortgages
+    - Assignments
+    - Discharges
+    - Leases
+    - Anything affecting real estate, wills, or [codicil](https://www.google.com/search?q=Codicil&sourceid=chrome&ie=UTF-8#:~:text=an%20addition%20or%20supplement%20that%20explains%2C%20modifies%2C%20or%20revokes%20a%20will%20or%20part%20of%20one.)
+1. Officers of societies for the prevention of cruelty to children and animals, must be represented by an attorney to execute [special powers](https://codes.findlaw.com/ny/notforprofit-corporation-law/npc-sect-1403.html#:~:text=(b)%E2%80%82Special%20powers,any%20proceeding%20therein.).
+2. **Law students can practice law if they**:
+    - Completed 2 Semesters of law school
+    - [Have taken the bar exam (pass or fail)](https://www.nybarexam.org/eligible/eligibility.htm#:~:text=New%20York%20is%20one%20of%20only%20a%20few%20jurisdictions%20that%20permits%20an%20applicant%20to%20qualify%20to%20take%20the%20bar%20examination%20on%20the%20basis%20of%20some%20law%20school%20study%20combined%20with%20law%20office%20study%20or%20clerkship.)
+    - Are acting under the supervision of a legal aid organization [approved by the appellate division of the supreme court](https://www.nycourts.gov/courts/ad2/aboutthecourt.shtml#:~:text=The%20Appellate%20Division%20is,the%20State%27s%20highest%20court.).
+3. **Law school graduates can practice law if they**:
+    - Have taken the bar exam and **passed**
+    - If they **failed** the bar exam, are acting under the supervision of a legal aid organization approved by the appellate division of the supreme court.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §485. Violation of certain preceding sections a misdemeanor.
+
+  <u>**In summary: Don't practice law, give legal advice, or advertise as a lawyer if you are not a lawyer.**</u>
+
+- Any person violating the provisions of these sections shall be guilty of a misdemeanor.
+    - [§478](https://www.nysenate.gov/legislation/laws/JUD/478#:~:text=SECTION%20478,admitted%20and%20registered) - *Practicing or appearing as attorney-at-law without being admitted and registered.*
+    - [§479](https://www.nysenate.gov/legislation/laws/JUD/479#:~:text=SECTION%20479,of%20an%20attorney) - *Soliciting business on behalf of an attorney.*
+    - [§480](https://www.nysenate.gov/legislation/laws/JUD/480#:~:text=SECTION%20480,release%20or%20statement) - *Entering hospital to negotiate settlement or obtain release or statement.*
+    - [§481](https://www.nysenate.gov/legislation/laws/JUD/481#:~:text=Aiding%2C%20assisting%20or%20abetting%20the%20solicitation%20of%20persons%20or%20the%20procurement%20of%20a%20retainer%20for%20or%20on%20behalf%20of%20an%20attorney) - *Aiding, assisting or abetting the solicitation of persons or the procurement of a retainer for or on behalf of an attorney.*
+    - [§482](https://www.nysenate.gov/legislation/laws/JUD/482#:~:text=%C2%A7%20482.%20Employment%20by%20attorney%20of%20person%20to%20aid%2C%20assist%20or%20abet%20in%20the%0Asolicitation%20of%20business%20or%20the%20procurement%20through%20solicitation%20of%20a%0Aretainer%20to%20perform%20legal%20services.) - *Employment by attorney of person to aid, assist or abet in the solicitation of business or the procurement through solicitation of a retainer to perform legal services.*
+    - [§483](https://www.nysenate.gov/legislation/laws/JUD/483#:~:text=SECTION%20483,attorney%20at%20law) - *Signs advertising services as attorney at law.*
+    - [§484](https://www.nysenate.gov/legislation/laws/JUD/484#:~:text=SECTION%20484,in%20the%20state) - *None but attorneys to practice in the state.*
+
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §750. Power of courts to punish for criminal contempts.
+
+- The supreme court has the ability to punish anyone unlawfully practicing as a lawyer.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Illegal practice of law by notary public.
+
+- Practicing law, giving legal advice, and drafting legal documents, including wills, are all considered law practice. 
+- It's all illegal if you are not a lawyer. Don't do it. 
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Wills.
+
+- The execution of a will without a lawyer present will potentially render the will worthless.
+- A lawyer must be present when creating and executing a will.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §15 Public Officers Law.
+
+- A notary public is a public officer.
+- Notary must not act before taking and filing oath of office.
+- Doing so is a misdemeanor.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §67. Fees of public officers.
+
+1. Must perform your duty without compensation unless a fee is specified by law.
+2. If a fee is specified by law, you cannot receive more than what is specified.
+3. Cannot demand fees if services were not performed. 
+    - Can ask for fees in advance, before performing the service.
+4. Subject to criminal prosecution, civil suit and possible removal if you violate this section.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §69. Fee for administering certain official oaths prohibited.
+
+- A notary is **not entitled to a fee** for **administering the oath of office** to:
+    - A member of the legislature
+    - Any military officer
+    - An inspector of election
+    - Clerk of the poll
+    - Public employees
+    - Other public officers
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Misconduct by a notary and removal from office.
+
+- Misconduct by a notary will result in removal from office if they:
+    - Perform any fraud or deceit (Misdemeanor)
+    - Lied in their notary application
+    - Taking the oath of an *affiant (a person who swears to an affidavit)* to a knowingly false statement.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §70.00 Sentence of imprisonment for felony.
+
+- Jail Sentencing
+    - [Indeterminate sentence](https://www.law.cornell.edu/wex/indeterminate_sentence#:~:text=which%20means%20the%20convicted%20person%27s%20release%20date%20is%20left%20open.)
+        - 3 Years (Max)
+    - **Class E Felony**
+        - **4 Years (Max)**
+    - **Class D Felony**
+        - **7 Years (Max)**
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §70.15 Sentences of imprisonment for misdemeanors and violation.
+
+- **[Class A Misdemeanor](https://omh.ny.gov/omhweb/forensic/manual/html/chapter1.htm#:~:text=Upon%20conviction%20of%20a%20Class%20%E2%80%9CA%E2%80%9D%20misdemeanor%2C%20a%20court%20may%20sentence%20an%20individual%20to%20a%20maximum%20of%20one%20year%20in%20jail%20or%20three%20years%20probation.%20In%20addition%2C%20a%20fine%20of%20up%20to%20%241%2C000%20or%20twice%20the%20amount%20of%20the%20individual%E2%80%99s%20gain%20from%20the%20crime%20may%20be%20imposed.)**
+    - **1 Year (Max)** or 3 Years probation
+    - Fine of $1,000 or twice the amount of the individual’s gain from the crime.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §170.10 Forgery in the second degree.
+
+- Forgery in the second degree is a **Class D Felony**.
+- Falsely makes, completes or alters a written document to defraud, deceive or injure another.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §175.40 Issuing a false certificate.
+
+- Issuing a false certificate is a **Class E Felony**.
+- Issuing a false certificate with intent to defraud, deceive or injure another person, knowing that it contains a false statement or false information.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### §195.00 Official misconduct.
+
+- Official misconduct is a **Class A Misdemeanor**.
+- Misconduct:
+    - Performing unauthorized acts.
+    - Not performing the duties of a notary when requested.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Notary must officiate on request.
+
+- Refusing to take an oath or affidavit is considered official misconduct and is a **Class A Misdemeanor**.
+
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Perjury.
+
+- Making a statement or giving testimony as fact and knowing it's actually false.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+## TITLE 19 NYCRR CHAPTER V, SUBCHAPTER L | PART 182 NOTARIES PUBLIC
+
+### §182.1 Advertising
+
+- A notary cannot advertise as a lawyer using any foreign languages.
+- A notary that advertises their services, in any language, must include this in their advertisement (translated if necessary):
+    - `I am not an attorney licensed to practice law and may not give legal advice about immigration or any other legal matter or accept fees for legal advice.`
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+## Definitions and General Terms
+
+### Acknowledgment
