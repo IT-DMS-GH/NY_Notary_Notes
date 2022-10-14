@@ -61,10 +61,24 @@
         - [§195.00 Official misconduct.](#19500-official-misconduct)
         - [Notary must officiate on request.](#notary-must-officiate-on-request)
         - [Perjury.](#perjury)
-    - [TITLE 19 NYCRR CHAPTER V, SUBCHAPTER L | PART 182 NOTARIES PUBLIC](#title-19-nycrr-chapter-v-subchapter-l--part-182-notaries-public)
+    - [**TITLE 19 NYCRR CHAPTER V, SUBCHAPTER L | PART 182 NOTARIES PUBLIC**](#title-19-nycrr-chapter-v-subchapter-l--part-182-notaries-public)
         - [§182.1 Advertising](#1821-advertising)
-    - [Definitions and General Terms](#definitions-and-general-terms)
+    - [**Definitions and General Terms**](#definitions-and-general-terms)
         - [Acknowledgment](#acknowledgment)
+        - [Administrator](#administrator)
+        - [Affiant](#affiant)
+        - [Affidavit](#affidavit)
+        - [Affirmation](#affirmation)
+        - [Apostille](#apostille)
+        - [Attest](#attest)
+        - [Attestation Clause](#attestation-clause)
+        - [Authentication](#authentication)
+        - [Bill of Sale](#bill-of-sale)
+        - [Certified Copy](#certified-copy)
+        - [Chattel](#chattel)
+        - [Chattel Paper](#chattel-paper)
+        - [Codicil](#codicil)
+        - [Consideration](#consideration)
 
 
 ## **Resources**
@@ -763,7 +777,7 @@
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
 
-## TITLE 19 NYCRR CHAPTER V, SUBCHAPTER L | PART 182 NOTARIES PUBLIC
+## **TITLE 19 NYCRR CHAPTER V, SUBCHAPTER L | PART 182 NOTARIES PUBLIC**
 
 ### §182.1 Advertising
 
@@ -774,6 +788,116 @@
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
 
-## Definitions and General Terms
+## **Definitions and General Terms**
 
 ### Acknowledgment
+
+- In the case of an acknowledgment, the notary public certifies as to the identity and execution of a document.
+- An acknowledgment must not be taken unless he knows or has satisfactory evidence, that the person making it is the person described in and who executed such instrument.
+- `on a specified date “before me came ...................., to me  known to be the individual described in and who executed the foregoing instrument and acknowledged that he executed the same.”`
+- The **person who executed the instrument does not need to sign** his name in the presence of the notary.
+- Taking acknowledgments over the telephone is illegal and a notary public is **guilty of a misdemeanor** in so acting.
+    - Must Appear personally before the notary.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Administrator
+
+- A person appointed by the court to manage the estate of a deceased person who left no will.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Affiant
+
+- The person who makes and subscribes his signature to an affidavit.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Affidavit
+
+- A written statement confirmed by oath or affirmation, for use as evidence in court.
+- **The venue**, or county where the affidavit was sworn should be stated.
+- The wilful making of a false affidavit is perjury.
+- The affidavit involves the administration of an oath to the affiant.
+- **An affidavit is an ex parte statement.**
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Affirmation
+
+- [A spoken pledge made on the signer’s personal honor with no reference to a higher power.](https://www.nationalnotary.org/notary-bulletin/blog/2015/05/your-guide-notary-oaths-affirmations#:~:text=a%20spoken%20pledge%20made%20on%20the%20signer%E2%80%99s%20personal%20honor%20with%20no%20reference%20to%20a%20higher%20power.)
+- Equivalent to an oath and is just as binding.
+- `“Do you solemnly, sincerely, and truly, declare and affirm that the statements made by you are true and correct.”`
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Apostille
+
+- [Department of State authentication attached to a notarized and county-certified document for possible international use.](https://travel.state.gov/content/travel/en/records-and-authentications/authenticate-your-document/apostille-requirements.html#:~:text=Apostilles%20authenticate%20the%20seals%20and%20signatures%20of%20officials%20on%20public%20documents%20such%20as%20birth%20certificates%2C%20court%20orders%2C%20or%20any%20other%20document%20issued%20by%20a%20federal%20agency%20or%20certified%20by%20an%20American%20or%20foreign%20consul.)
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Attest
+
+- To witness the execution of a written document.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Attestation Clause
+
+- A clause at the end of a will.
+- The witnesses certify that the will has been executed.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Authentication
+
+- The county clerks certificate that authenticates a notary's authority.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Bill of Sale
+
+- The document passing the title of property from one person to another.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Certified Copy
+
+- A copy of a public record signed and certified as a true copy by the public official having custody of the original.
+- **A notary public has no authority to issue certified copies.**
+- **Notaries must not certify to the authenticity of legal documents.**
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Chattel
+
+- Personal property, such as household goods or fixtures.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Chattel Paper
+
+- [A document used in secured transactions to sell property on credit while retaining some interest in the property.](https://www.law.cornell.edu/wex/chattel_paper#:~:text=a%20document%20used%20in%20secured%20transactions%20to%20sell%20property%20on%20credit%20while%20retaining%20some%20interest%20in%20the%20property.)
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Codicil
+
+- An instrument made subsequent to a will and modifying it in some respects.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
