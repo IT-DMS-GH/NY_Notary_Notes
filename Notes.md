@@ -1,84 +1,120 @@
 # **Notary Public License Law (May 2020) - Notes**
 
 ## **Contents**
-- [**Notary Public License Law (May 2020) - Notes**](#notary-public-license-law-may-2020---notes)
-    - [**Contents**](#contents)
-    - [**Resources**](#resources)
-    - [**Intro**](#intro)
-    - [**Professional Conduct**](#professional-conduct)
-    - [**APPOINTMENT AND QUALIFICATIONS EXECUTIVE LAW**](#appointment-and-qualifications-executive-law)
-        - [§130. Appointment of notaries public.](#130-appointment-of-notaries-public)
-        - [§131. Procedure of appointment; fees and commissions.](#131-procedure-of-appointment-fees-and-commissions)
-        - [§132. Certificates of official character of notaries public.](#132-certificates-of-official-character-of-notaries-public)
-        - [§133. Certification of notarial signatures.](#133-certification-of-notarial-signatures)
-        - [§140. Executive Law.](#140-executive-law)
-        - [§3-200 and 3-400. Election Law.](#3-200-and-3-400-election-law)
-        - [§3. Public Officer Law.](#3-public-officer-law)
-        - [§534. County Law.](#534-county-law)
-    - [**Miscellaneous**](#miscellaneous)
-        - [Member of legislature.](#member-of-legislature)
-        - [Sheriffs.](#sheriffs)
-        - [Notary public—disqualifications.](#notary-publicdisqualifications)
-    - [**Powers and Duties**](#powers-and-duties)
-        - [§134. Signature and seal of county clerk.](#134-signature-and-seal-of-county-clerk)
-        - [§135. Powers and duties; in general; of notaries public who are attorneys at law.](#135-powers-and-duties-in-general-of-notaries-public-who-are-attorneys-at-law)
-        - [§135-a. Notary Public or commissioner of deeds; acting without appointment; fraud in office.](#135-a-notary-public-or-commissioner-of-deeds-acting-without-appointment-fraud-in-office)
-        - [§135-b. Advertising by notaries public.](#135-b-advertising-by-notaries-public)
-        - [§136. Notarial fees.](#136-notarial-fees)
-        - [§137. Statement as to authority of notaries public.](#137-statement-as-to-authority-of-notaries-public)
-        - [§138. Powers of notaries public or other officers who are stockholders, directors, officers or employees of a corporation.](#138-powers-of-notaries-public-or-other-officers-who-are-stockholders-directors-officers-or-employees-of-a-corporation)
-        - [§142-a. Validity of acts of notaries public and commissioners of deeds notwithstanding certain defects.](#142-a-validity-of-acts-of-notaries-public-and-commissioners-of-deeds-notwithstanding-certain-defects)
-    - [**Real Property Law**](#real-property-law)
-        - [§290. Definitions; effect of article.](#290-definitions-effect-of-article)
-        - [§298. Acknowledgments and proofs within the state.](#298-acknowledgments-and-proofs-within-the-state)
-        - [§302. Acknowledgments and proofs by married women.](#302-acknowledgments-and-proofs-by-married-women)
-        - [§303. Requisites of acknowledgments.](#303-requisites-of-acknowledgments)
-        - [§304. Proof by subscribing witness.](#304-proof-by-subscribing-witness)
-        - [§306. Certificate of acknowledgment or proof.](#306-certificate-of-acknowledgment-or-proof)
-        - [§309-a. Uniform forms of certificates of acknowledgment or proof within this state.](#309-a-uniform-forms-of-certificates-of-acknowledgment-or-proof-within-this-state)
-        - [§309-b. Uniform forms of certificates of acknowledgment or proof without this state.](#309-b-uniform-forms-of-certificates-of-acknowledgment-or-proof-without-this-state)
-        - [§330. Officers guilty of malfeasance liable for damages.](#330-officers-guilty-of-malfeasance-liable-for-damages)
-        - [§333. When conveyances of real property not to be recorded.](#333-when-conveyances-of-real-property-not-to-be-recorded)
-        - [Special Note.](#special-note)
-        - [§335. Banking Law.](#335-banking-law)
-        - [Rule 3113. Civil Practice Law and Rules.](#rule-3113-civil-practice-law-and-rules)
-        - [§11. Domestic Relations Law.](#11-domestic-relations-law)
-        - [§10. Public Officers Law.](#10-public-officers-law)
-    - [**Restrictions and Violations**](#restrictions-and-violations)
-        - [§484. None but attorneys to practice in the state.](#484-none-but-attorneys-to-practice-in-the-state)
-        - [§485. Violation of certain preceding sections a misdemeanor.](#485-violation-of-certain-preceding-sections-a-misdemeanor)
-        - [§750. Power of courts to punish for criminal contempts.](#750-power-of-courts-to-punish-for-criminal-contempts)
-        - [Illegal practice of law by notary public.](#illegal-practice-of-law-by-notary-public)
-        - [Wills.](#wills)
-        - [§15 Public Officers Law.](#15-public-officers-law)
-        - [§67. Fees of public officers.](#67-fees-of-public-officers)
-        - [§69. Fee for administering certain official oaths prohibited.](#69-fee-for-administering-certain-official-oaths-prohibited)
-        - [Misconduct by a notary and removal from office.](#misconduct-by-a-notary-and-removal-from-office)
-        - [§70.00 Sentence of imprisonment for felony.](#7000-sentence-of-imprisonment-for-felony)
-        - [§70.15 Sentences of imprisonment for misdemeanors and violation.](#7015-sentences-of-imprisonment-for-misdemeanors-and-violation)
-        - [§170.10 Forgery in the second degree.](#17010-forgery-in-the-second-degree)
-        - [§175.40 Issuing a false certificate.](#17540-issuing-a-false-certificate)
-        - [§195.00 Official misconduct.](#19500-official-misconduct)
-        - [Notary must officiate on request.](#notary-must-officiate-on-request)
-        - [Perjury.](#perjury)
-    - [**TITLE 19 NYCRR CHAPTER V, SUBCHAPTER L | PART 182 NOTARIES PUBLIC**](#title-19-nycrr-chapter-v-subchapter-l--part-182-notaries-public)
-        - [§182.1 Advertising](#1821-advertising)
-    - [**Definitions and General Terms**](#definitions-and-general-terms)
-        - [Acknowledgment](#acknowledgment)
-        - [Administrator](#administrator)
-        - [Affiant](#affiant)
-        - [Affidavit](#affidavit)
-        - [Affirmation](#affirmation)
-        - [Apostille](#apostille)
-        - [Attest](#attest)
-        - [Attestation Clause](#attestation-clause)
-        - [Authentication](#authentication)
-        - [Bill of Sale](#bill-of-sale)
-        - [Certified Copy](#certified-copy)
-        - [Chattel](#chattel)
-        - [Chattel Paper](#chattel-paper)
-        - [Codicil](#codicil)
-        - [Consideration](#consideration)
+- [**Resources**](#resources)
+- [**Intro**](#intro)
+- [**Professional Conduct**](#professional-conduct)
+- [**APPOINTMENT AND QUALIFICATIONS EXECUTIVE LAW**](#appointment-and-qualifications-executive-law)
+    - [§130. Appointment of notaries public.](#130-appointment-of-notaries-public)
+    - [§131. Procedure of appointment; fees and commissions.](#131-procedure-of-appointment-fees-and-commissions)
+    - [§132. Certificates of official character of notaries public.](#132-certificates-of-official-character-of-notaries-public)
+    - [§133. Certification of notarial signatures.](#133-certification-of-notarial-signatures)
+    - [§140. Executive Law.](#140-executive-law)
+    - [§3-200 and 3-400. Election Law.](#3-200-and-3-400-election-law)
+    - [§3. Public Officer Law.](#3-public-officer-law)
+    - [§534. County Law.](#534-county-law)
+- [**Miscellaneous**](#miscellaneous)
+    - [Member of legislature.](#member-of-legislature)
+    - [Sheriffs.](#sheriffs)
+    - [Notary public—disqualifications.](#notary-publicdisqualifications)
+- [**Powers and Duties**](#powers-and-duties)
+    - [§134. Signature and seal of county clerk.](#134-signature-and-seal-of-county-clerk)
+    - [§135. Powers and duties; in general; of notaries public who are attorneys at law.](#135-powers-and-duties-in-general-of-notaries-public-who-are-attorneys-at-law)
+    - [§135-a. Notary Public or commissioner of deeds; acting without appointment; fraud in office.](#135-a-notary-public-or-commissioner-of-deeds-acting-without-appointment-fraud-in-office)
+    - [§135-b. Advertising by notaries public.](#135-b-advertising-by-notaries-public)
+    - [§136. Notarial fees.](#136-notarial-fees)
+    - [§137. Statement as to authority of notaries public.](#137-statement-as-to-authority-of-notaries-public)
+    - [§138. Powers of notaries public or other officers who are stockholders, directors, officers or employees of a corporation.](#138-powers-of-notaries-public-or-other-officers-who-are-stockholders-directors-officers-or-employees-of-a-corporation)
+    - [§142-a. Validity of acts of notaries public and commissioners of deeds notwithstanding certain defects.](#142-a-validity-of-acts-of-notaries-public-and-commissioners-of-deeds-notwithstanding-certain-defects)
+- [**Real Property Law**](#real-property-law)
+    - [§290. Definitions; effect of article.](#290-definitions-effect-of-article)
+    - [§298. Acknowledgments and proofs within the state.](#298-acknowledgments-and-proofs-within-the-state)
+    - [§302. Acknowledgments and proofs by married women.](#302-acknowledgments-and-proofs-by-married-women)
+    - [§303. Requisites of acknowledgments.](#303-requisites-of-acknowledgments)
+    - [§304. Proof by subscribing witness.](#304-proof-by-subscribing-witness)
+    - [§306. Certificate of acknowledgment or proof.](#306-certificate-of-acknowledgment-or-proof)
+    - [§309-a. Uniform forms of certificates of acknowledgment or proof within this state.](#309-a-uniform-forms-of-certificates-of-acknowledgment-or-proof-within-this-state)
+    - [§309-b. Uniform forms of certificates of acknowledgment or proof without this state.](#309-b-uniform-forms-of-certificates-of-acknowledgment-or-proof-without-this-state)
+    - [§330. Officers guilty of malfeasance liable for damages.](#330-officers-guilty-of-malfeasance-liable-for-damages)
+    - [§333. When conveyances of real property not to be recorded.](#333-when-conveyances-of-real-property-not-to-be-recorded)
+    - [Special Note.](#special-note)
+    - [§335. Banking Law.](#335-banking-law)
+    - [Rule 3113. Civil Practice Law and Rules.](#rule-3113-civil-practice-law-and-rules)
+    - [§11. Domestic Relations Law.](#11-domestic-relations-law)
+    - [§10. Public Officers Law.](#10-public-officers-law)
+- [**Restrictions and Violations**](#restrictions-and-violations)
+    - [§484. None but attorneys to practice in the state.](#484-none-but-attorneys-to-practice-in-the-state)
+    - [§485. Violation of certain preceding sections a misdemeanor.](#485-violation-of-certain-preceding-sections-a-misdemeanor)
+    - [§750. Power of courts to punish for criminal contempts.](#750-power-of-courts-to-punish-for-criminal-contempts)
+    - [Illegal practice of law by notary public.](#illegal-practice-of-law-by-notary-public)
+    - [Wills.](#wills)
+    - [§15 Public Officers Law.](#15-public-officers-law)
+    - [§67. Fees of public officers.](#67-fees-of-public-officers)
+    - [§69. Fee for administering certain official oaths prohibited.](#69-fee-for-administering-certain-official-oaths-prohibited)
+    - [Misconduct by a notary and removal from office.](#misconduct-by-a-notary-and-removal-from-office)
+    - [§70.00 Sentence of imprisonment for felony.](#7000-sentence-of-imprisonment-for-felony)
+    - [§70.15 Sentences of imprisonment for misdemeanors and violation.](#7015-sentences-of-imprisonment-for-misdemeanors-and-violation)
+    - [§170.10 Forgery in the second degree.](#17010-forgery-in-the-second-degree)
+    - [§175.40 Issuing a false certificate.](#17540-issuing-a-false-certificate)
+    - [§195.00 Official misconduct.](#19500-official-misconduct)
+    - [Notary must officiate on request.](#notary-must-officiate-on-request)
+    - [Perjury.](#perjury)
+- [**TITLE 19 NYCRR CHAPTER V, SUBCHAPTER L | PART 182 NOTARIES PUBLIC**](#title-19-nycrr-chapter-v-subchapter-l--part-182-notaries-public)
+    - [§182.1 Advertising](#1821-advertising)
+- [**Definitions and General Terms**](#definitions-and-general-terms)
+    - [Acknowledgment](#acknowledgment)
+    - [Administrator](#administrator)
+    - [Affiant](#affiant)
+    - [Affidavit](#affidavit)
+    - [Affirmation](#affirmation)
+    - [Apostille](#apostille)
+    - [Attest](#attest)
+    - [Attestation Clause](#attestation-clause)
+    - [Authentication](#authentication)
+    - [Bill of Sale](#bill-of-sale)
+    - [Certified Copy](#certified-copy)
+    - [Chattel](#chattel)
+    - [Chattel Paper](#chattel-paper)
+    - [Codicil](#codicil)
+    - [Consideration](#consideration)
+    - [Contempt of Court](#contempt-of-court)
+    - [Contract](#contract)
+    - [Conveyance (Deed)](#conveyance-deed)
+    - [County Clerk’s Certificate](#county-clerks-certificate)
+    - [Deponent](#deponent)
+    - [Deposition](#deposition)
+    - [Duress](#duress)
+    - [Escrow](#escrow)
+    - [Executor](#executor)
+    - [Ex Parte (From One Side Only)](#ex-parte-from-one-side-only)
+    - [Felony](#felony)
+    - [Guardian](#guardian)
+    - [Judgment](#judgment)
+    - [Jurat](#jurat)
+    - [Laches](#laches)
+    - [Lease](#lease)
+    - [Lien](#lien)
+    - [Litigation](#litigation)
+    - [Misdemeanor](#misdemeanor)
+    - [Mortgage On Real Property](#mortgage-on-real-property)
+    - [Notary Public](#notary-public)
+    - [Oath](#oath)
+    - [Plaintiff](#plaintiff)
+    - [Power of Attorney](#power-of-attorney)
+    - [Proof](#proof)
+    - [Protest](#protest)
+    - [Seal](#seal)
+    - [Signature of Notary Public](#signature-of-notary-public)
+    - [Statute](#statute)
+    - [Statute of Frauds](#statute-of-frauds)
+    - [Statute of Limitations](#statute-of-limitations)
+    - [Subordination Clause](#subordination-clause)
+    - [Sunday](#sunday)
+    - [Swear](#swear)
+    - [Taking an Acknowledgment](#taking-an-acknowledgment)
+    - [Venue](#venue)
+    - [Will](#will)
+- [Fees](#fees)
 
 
 ## **Resources**
@@ -96,6 +132,8 @@
     - [[Link 1](https://quizlet.com/56144981/new-york-state-notary-public-license-exam-flash-cards/) | [Link 2](https://quizlet.com/593263503/new-york-notary-exam-practice-test-flash-cards/)]
 - Practice Exams 
     - [[Exam 1](https://www.howtobecomeanotaryinny.com/sample-ny-notary-practice-exam.html) | [Exam 2](https://quizlet.com/592341178/new-york-notary-practice-test-1-flash-cards/) | [Exam 3](https://quizlet.com/592374572/new-york-notary-practice-test-2-flash-cards/) | [Exam 4](https://quizlet.com/592617412/new-york-state-notary-practice-test-3-flash-cards/) | [Exam 5](https://quizlet.com/592645638/new-york-notary-practice-test-4-flash-cards/) | [Exam 6](https://quizlet.com/592659228/new-york-notary-practice-test-5-flash-cards/) | [Exam 7](https://quizlet.com/592678029/new-york-notary-practice-test-6-flash-cards/) | [Exam 8](https://quizlet.com/593263503/new-york-notary-exam-practice-test-flash-cards/) | [Exam 9](https://quizlet.com/131355548/notary-practice-test-1-flash-cards/) | [Exam 10](https://quizlet.com/131380862/notary-practice-test-2-flash-cards/) | [Exam 11](https://quizlet.com/132497728/notary-practice-test-3-flash-cards/)]
+- Definitions
+	- [Legal Dictionary](https://www.law.cornell.edu/wex/all)
 - Forms
     - Acknowledgements
         - [New York notary acknowledgement forms](https://notaryacknowledgement.com/ny/)
@@ -806,8 +844,6 @@
 
 - A person appointed by the court to manage the estate of a deceased person who left no will.
 
-<p align="right"><a href="#Contents">[Back to Top]</a></p>
-
 
 ### Affiant
 
@@ -824,8 +860,6 @@
 - The affidavit involves the administration of an oath to the affiant.
 - **An affidavit is an ex parte statement.**
 
-<p align="right"><a href="#Contents">[Back to Top]</a></p>
-
 
 ### Affirmation
 
@@ -840,8 +874,6 @@
 
 - [Department of State authentication attached to a notarized and county-certified document for possible international use.](https://travel.state.gov/content/travel/en/records-and-authentications/authenticate-your-document/apostille-requirements.html#:~:text=Apostilles%20authenticate%20the%20seals%20and%20signatures%20of%20officials%20on%20public%20documents%20such%20as%20birth%20certificates%2C%20court%20orders%2C%20or%20any%20other%20document%20issued%20by%20a%20federal%20agency%20or%20certified%20by%20an%20American%20or%20foreign%20consul.)
 
-<p align="right"><a href="#Contents">[Back to Top]</a></p>
-
 
 ### Attest
 
@@ -855,8 +887,6 @@
 - A clause at the end of a will.
 - The witnesses certify that the will has been executed.
 
-<p align="right"><a href="#Contents">[Back to Top]</a></p>
-
 
 ### Authentication
 
@@ -868,8 +898,6 @@
 ### Bill of Sale
 
 - The document passing the title of property from one person to another.
-
-<p align="right"><a href="#Contents">[Back to Top]</a></p>
 
 
 ### Certified Copy
@@ -885,8 +913,6 @@
 
 - Personal property, such as household goods or fixtures.
 
-<p align="right"><a href="#Contents">[Back to Top]</a></p>
-
 
 ### Chattel Paper
 
@@ -899,5 +925,267 @@
 
 - An instrument made subsequent to a will and modifying it in some respects.
 
+
+### Consideration
+
+- Anything of value given to influence someone into entering into a contract.
+- Money, Personal Services, love and affection, etc.
+
 <p align="right"><a href="#Contents">[Back to Top]</a></p>
 
+
+### Contempt of Court
+
+- Behavior disrespectful of the authority of a court which disrupts the execution of court orders.
+
+
+### Contract
+
+- A written or spoken agreement between competent parties to do or not to do certain things intended to be enforceable by law.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Conveyance (Deed)
+
+- Every instrument, in writing, except a will, by which any estate or interest in real property is created, transferred, assigned or surrendered.
+
+
+### County Clerk’s Certificate
+
+- Authenticates a notary's authority.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Deponent
+
+- The witness who makes an oath to a written statement.
+- **Used interchangeably with “Affiant.”**
+
+
+### Deposition
+
+- [A witness's sworn out-of-court testimony.](https://www.law.cornell.edu/wex/deposition#:~:text=A%20deposition%C2%A0is%20a%20witness%27s%20sworn%20out%2Dof%2Dcourt%20testimony.%20It%20is%20used%20to%20gather%20information%20as%20part%20of%20the%C2%A0discovery%C2%A0process%20and%2C%20in%20limited%20circumstances%2C%20may%20be%20used%20at%20trial.%20The%20witness%20being%20deposed%20is%20called%20the%20%22deponent.%22)
+- May be used at trial.
+- The witness being deposed is called the "deponent."
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Duress
+
+- Forcing someone to do something against their will.
+
+
+### Escrow
+
+- The placing of an instrument in the hands of a escrow agent as a depository.
+- On the happening of a designated event, the escrow agent delivers the instrument to a third person.
+- This agreement, once established, should be unalterable.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Executor
+
+- A person or institution appointed by a testator to carry out the terms of their will.
+
+
+### Ex Parte (From One Side Only)
+
+- A hearing or examination in the presence of, or on papers filed by, one party and in the absence of the other.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Felony
+
+- A crime punishable by death or imprisonment in a state prison.
+
+
+### Guardian
+
+- A person in charge of a minor’s **person or property.**
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Judgment
+
+- Decree of a court **declaring that one individual is indebted to another** and fixing the amount of such **indebtedness**.
+
+
+### Jurat
+
+- [A jurat is a certificate attached to an affidavit or deposition to signify that the affidavit or deposition was properly made before a duly authorized officer.](https://www.law.cornell.edu/wex/jurat#:~:text=A%20jurat%20is%20a%20certificate%20attached%20to%20an%20affidavit%20or%20deposition%20to%20signify%20that%20the%20affidavit%20or%20deposition%20was%20properly%20made%20before%20a%20duly%20authorized%20officer.)
+- `“Sworn to before me this ........ day of ........, 20 ......”`
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Laches
+
+- The **delay or negligence** in asserting one’s legal rights.
+
+
+### Lease
+
+- A contract between two parties where one party allows the other to use their property for a period of time in exchange for money.
+- Usually paid monthly.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Lien
+
+- [A lien is a claim or legal right against assets that are usually used as collateral to satisfy a debt.](https://www.investopedia.com/terms/l/lien.asp#:~:text=A%20lien%20is%20a%20claim%20or%20legal%20right%20against%20assets%20that%20are%20typically%20used%20as%20collateral%20to%20satisfy%20a%20debt.)
+- A creditor or a legal judgment could establish a lien.
+
+
+### Litigation
+
+- The act of carrying on a lawsuit.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Misdemeanor
+
+- [A misdemeanor is typically a crime punishable by less than 1 year in jail.](https://www.law.cornell.edu/wex/misdemeanor#:~:text=Misdemeanor-,Misdemeanor,for%20less%20than%20a%20year%20are%20commonly%20issued%20punishments%20for%20misdemeanors.,-More%20grievous%20crimes)
+- Community service, probation, fines, and imprisonment for less than 1 year are commonly issued punishments for misdemeanors.
+- **Any crime other than a felony.**
+
+
+### Mortgage On Real Property
+
+- [Involves the transfer of an interest in land as security for a loan or other obligation.](https://www.law.cornell.edu/wex/mortgage#:~:text=A%20mortgage%20involves%20the%20transfer%20of%20an%20interest%20in%20land%20as%20security%20for%20a%20loan%20or%20other%20obligation.%20It%20is%20the%20most%20common%20method%20of%20financing%20real%20estate%20transactions.%20The%20mortgagor%20is%20the%20party%20transferring%20the%20interest%20in%20land.)
+- Most common method of financing real estate transactions.
+- Usually in the form of a bond.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Notary Public
+
+- A person authorized by state law to perform various tasks that require an objective third party.
+- Administers oaths and affirmations, certifies documents, and vouches for the authenticity of signatures.
+
+
+### Oath
+
+- A public pledge that a person will perform some action or duty, generally with the promise of doing so truthfully.
+- **The person taking the oath must personally appear before the notary**
+- **An oath cannot be administered over the telephone.**
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Plaintiff
+
+- A person who starts a suit or brings an action against another.
+
+
+### Power of Attorney
+
+- A written statement by an individual giving another person the power to act for him.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Proof
+
+- A document signed by a witness, stating they knew the person described in and who executed the instrument.
+- Proves they saw the person execute the instrument.
+
+
+### Protest
+
+- A formal statement written and signed by a notary public describing that a form of payment (bill of exchange or promissory note) was denied or refused to be accepted.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Seal
+
+- The laws of the State of New York do not require the use of seals by notaries public.
+- If a seal is used, it should sufficiently identify the notary public, his authority and jurisdiction.
+- Only inscription required is the name of the notary and the words `“Notary Public for the State of New York.”`
+
+
+### Signature of Notary Public
+
+- **A notary public must sign the name under which they were appointed and no other.**
+- Notary must print in black ink:
+    - Their signature
+    - Venue
+    - Their name
+    - `"Notary Public State of New York"`
+    - Name of the county they qualify in
+    - Date of notary term expiration
+- **When a notary marries during the term of office, they must continue to use the name they were commissioned under.**
+- May place their married name in (parentheses) next to their signature and seal.
+- May renew their notary term under their new married name.
+- must perform all notarial functions under the name selected.
+- May be appointed and may officiate as a notary public under the name by which he is known in religious circles.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Statute
+
+- A law established by an act of the Legislature.
+
+
+### Statute of Frauds
+
+- A law that requires written contracts for certain agreements to be legally binding or enforceable at law.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Statute of Limitations
+
+- A law that sets the maximum amount of time that parties in a dispute have to initiate legal proceedings.
+
+
+### Subordination Clause
+- A clause which permits the placing of a mortgage at a later date which takes priority over an existing mortgage.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Sunday
+
+- A notary public may administer an oath or take an affidavit or acknowledgment on Sunday.
+- A deposition cannot be taken on Sunday in a civil proceeding.
+
+
+### Swear
+
+- Includes every mode authorized by law for administering an oath.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+### Taking an Acknowledgment
+
+- The act of the person named in an instrument telling the notary public that he is the person named in the instrument and acknowledging that he executed such instrument.
+
+
+### Venue
+
+- The geographical place where a notary public takes an affidavit or acknowledgment.
+
+
+### Will
+
+- [Also known as a *last will and testament*, is a legally enforceable declaration of how a person wants their property and assets distributed after death.](https://www.investopedia.com/terms/w/will.asp#:~:text=What%20Is%20a,any%20surviving%20pets.)
+- In a will, a person can also recommend a guardian for their minor children and make provisions for any surviving pets.
+
+<p align="right"><a href="#Contents">[Back to Top]</a></p>
+
+
+## Fees
+
+<p align="center"><img src="Screenshots/Fees.PNG"></p>
