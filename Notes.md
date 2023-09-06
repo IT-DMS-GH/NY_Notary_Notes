@@ -1,4 +1,4 @@
-# **Notary Public License Law (May 2020) - Notes**
+# **Notary Public License Law (January 2023) - Notes**
 
 ## **Contents**
 - [**Resources**](#resources)
@@ -123,7 +123,7 @@
 
 - [NY Notary Public Official Website](https://dos.ny.gov/notary-public)
 - Notary Law
-    - [NY Notary Law - 2020 (PDF)](https://dos.ny.gov/system/files/documents/2022/04/notary.pdf)
+    - [NY Notary Law - 2023 (PDF)](https://dos.ny.gov/system/files/documents/2023/01/notary-public-license-law_01.2023.pdf)
     - [NY Notary Law - Unofficial 2022 Revised (PDF)](https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/new_york.pdf)
     - [National Notary (Notary Law Database & Updates)](https://www.nationalnotary.org/knowledge-center/news/law-updates)
     - Article 6 - DEPARTMENT OF STATE LAW 
