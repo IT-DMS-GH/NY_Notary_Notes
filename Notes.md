@@ -123,8 +123,8 @@
 
 - [NY Notary Public Official Website](https://dos.ny.gov/notary-public)
 - Notary Law
-    - [NY Notary Law - 2023 (PDF)](https://dos.ny.gov/system/files/documents/2023/01/notary-public-license-law_01.2023.pdf)
-    - [NY Notary Law - Unofficial 2022 Revised (PDF)](https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/new_york.pdf)
+    - [NY Notary Law - 2023 (PDF)](https://dos.ny.gov/system/files/documents/2024/05/notary.pdf)
+    - [NY Notary Law - Unofficial 2024 Revised (PDF)](https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/new_york.pdf)
     - [National Notary (Notary Law Database & Updates)](https://www.nationalnotary.org/knowledge-center/news/law-updates)
     - Article 6 - DEPARTMENT OF STATE LAW 
         - [[Link 1](https://www.nysenate.gov/legislation/laws/EXC/A6) | [Link 2](https://casetext.com/statute/consolidated-laws-of-new-york/chapter-executive/article-6-department-of-state)]
